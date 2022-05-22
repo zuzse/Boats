@@ -5,9 +5,6 @@ library(stringr)
 library(writexl)
 
 rawdata <- read.csv("C:/Users/zuzan/Desktop/Data_analysis/GitHub/Portfolio_projects/Boats_DataCamp/Boats_github/Github_boat_data.csv", na.string ="")
-#rawdata <- rename(rawdata, c(Type = Boat.Type,  Producer = Manufacturer, Charactersitics = Type, Age = Year.Built,
-       #MadeOf = Material, Place = Location, Views = Number.of.views.last.7.days))
-# Create preview of table for Github
 #write_xlsx(rawdata, "C:/Users/zuzan/Desktop/Data_analysis/GitHub/Portfolio_projects/Boats_DataCamp//Preview.xlsx")
 
 # head(rawdata)
