@@ -10,6 +10,6 @@ The folder contain several files:
 * R code - cleaning the data
 * SQL -  calculating average views of boats
 * PDF - contains ppt presentation of findings. 
-* Excel tables - contains preview of raw and clean data (the full dataset contains 10 000 rows)
+* Excel tables - contains preview of raw and clean data (it is not the full dataset)
 
 *The graphs were made using PowerBI
