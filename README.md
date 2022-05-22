@@ -1,4 +1,5 @@
 # Boats
+
 How to increase customer interest for an online platfor for selling boats?
 
 A fictious online platform for selling boats aims to increase viewers interest in their listings. The important factor is number of Views of boats.
